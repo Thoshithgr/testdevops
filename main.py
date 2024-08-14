@@ -1,1 +1,2 @@
-print("Hello Tosith")
+print("Hello Thoshith")
+print("Welcome to GitHub")
